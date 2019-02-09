@@ -1,5 +1,3 @@
-
-
 # Game_0f_Snakes
 
 ## Getting and running the game
